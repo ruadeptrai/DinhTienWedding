@@ -1,6 +1,6 @@
 window.WEDDING_SITE = {
   mode: "static",
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbzua3_M81OS4xId1Hsj4ib32Pq0uZHUT-zI8tRkXLLH8epJnajmXT0U2ObNpQbdryk/exec",
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycby1ibZWhvvXRID-w_Vtwikxe9RaqWwKZXxrYP_6eKc5vetcDiiWsgdRUofuHGiMz2ja/exec",
   musicVolume: 0.55,
   musicFadeSeconds: 8
 };
